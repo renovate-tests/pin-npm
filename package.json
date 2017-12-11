@@ -1,0 +1,7 @@
+{
+  "name": "pin-npm",
+  "version": "0.0.1",
+  "devDependencies": {
+    "chalk": "^2.0.0"
+  }
+}
